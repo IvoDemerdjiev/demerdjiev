@@ -1,4 +1,5 @@
 Transformer-based Text Generation
+
 This repository contains a TensorFlow implementation of a text generation model based on the Transformer architecture. The model is trained to generate coherent text based on a given input sequence, and it utilizes multi-head attention mechanisms and feedforward layers.
 
 Problem Statement
